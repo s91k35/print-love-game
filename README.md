@@ -1,23 +1,22 @@
-# Print Love Game
+# Print Love
 
-An original Godot game inspired by the cozy-but-unsettling feeling of a tiny romance game.
+An original retro romance / mystery game prototype built in Godot 4.
 
-## Planned features
-
-- Old-computer interface
-- Dialogue and branching choices
-- Printable notes
-- Three original mini-games
+## Current build
+- Retro computer UI
+- Interactive printing system
+- Story progression
 - Hidden clues
+- Multiple print sheets
+- Secret final message
+- Ending transition
+
+## Roadmap
+- Original character scenes
+- Three original mini-games
+- Branching choices
 - Multiple endings
-- Glitch and horror effects
+- Save/load
+- Audio and visual effects
 
-This project uses original code, characters, dialogue, art, and audio rather than proprietary files from any existing commercial game.
-
-## Engine
-
-Godot 4.x
-
-## Status
-
-Prototype setup.
+This project is an original work inspired by the general retro romance-horror genre. It does not contain proprietary source code, dialogue, characters, music, or artwork from any existing commercial game.
